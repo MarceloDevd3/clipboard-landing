@@ -104,10 +104,6 @@ p {
     max-width: 100%;
 }
 
-.img-container .computer-img-02 {
-    width: 350px;
-}
-
 
 section,
 footer {
@@ -165,9 +161,14 @@ footer {
 
 .img-container img {
     max-width: 100%;
-    width: 400px;
+    width: 350px;
     margin: 2em 0;
 }
+
+.img-container .computer-img-02 {
+    width: 400px;
+}
+
 
 .d1 {
     font-size: 1.3em;
