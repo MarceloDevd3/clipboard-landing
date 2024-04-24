@@ -96,10 +96,9 @@ p {
     margin-bottom: 4em;
 }
 
-.hero img {
+.Hero-Information > .logo {
     position: relative;
-    top: 5%;
-    left: 35.5%;
+    left: 0;
     margin: 3em 0;
     max-width: 100%;
 }
@@ -279,24 +278,6 @@ footer ul li {
     margin: 0 50px;
 }
 
-
-@media (min-width: 400px) {
-    .hero img {
-        left: 40%;
-    }
-}
-
-@media (min-width: 700px) {
-    .hero img {
-        left: 43%;
-    }
-}
-
-@media (min-width: 1024px) {
-    .hero img {
-        left: 45%;
-    }
-}
 
 
 @media (min-width: 1120px) {
