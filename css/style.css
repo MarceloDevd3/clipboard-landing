@@ -99,10 +99,15 @@ p {
 .hero img {
     position: relative;
     top: 5%;
-    left: 36%;
+    left: 35.5%;
     margin: 3em 0;
     max-width: 100%;
 }
+
+.img-container .computer-img-02 {
+    width: 350px;
+}
+
 
 section,
 footer {
